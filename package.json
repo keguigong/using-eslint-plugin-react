@@ -30,7 +30,7 @@
     "@theme-ui/color": "^0.2.49",
     "@theme-ui/components": "^0.2.49",
     "@zeit/next-css": "^1.0.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "antd": "^3.26.3",
     "bizcharts": "^3.5.6",
     "bizcharts-plugin-slider": "^2.1.1-beta.1",
