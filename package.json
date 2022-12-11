@@ -34,7 +34,7 @@
     "antd": "^3.26.3",
     "bizcharts": "^3.5.6",
     "bizcharts-plugin-slider": "^2.1.1-beta.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "gray-percentage": "^2.0.0",
     "hex2rgba": "^0.0.1",
     "@zeit/next-less": "^1.0.1",
